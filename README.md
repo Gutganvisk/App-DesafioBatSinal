@@ -1,7 +1,7 @@
 <div>
   <h1>Desafio Bat Sinal - React Native App 📲</h1>
 
-<p> Projeto feito com o curso DIO para React Native, ele é uma aplicação mobile sigle page, que usa o useState para esconder e fazer aparecer as paginas, e com implementações de botão com o TouchableOppacity e um layout amigavel do Batman. O uso de IA foi utilizado para organização do estilo, pois acabou ficando muito redundante<p>
+<p> Projeto feito com o curso DIO para React Native, ele é uma aplicação mobile single page, que usa o useState para esconder e fazer aparecer as paginas, e com implementações de botão com o TouchableOppacity e um layout amigavel do Batman. O uso de IA foi utilizado para organização do estilo, pois acabou ficando muito redundante<p>
 </div>
 
 <div>
